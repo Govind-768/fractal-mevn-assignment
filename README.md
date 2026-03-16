@@ -55,35 +55,7 @@ fractal-mevn-assignment
 │
 └── README.md
 ```
-fractal-mevn-assignment
-│
-├── backend
-│   ├── models
-│   │   └── Activity.js
-│   │
-│   ├── routes
-│   │   └── activityRoutes.js
-│   │
-│   ├── seed
-│   │   └── seedData.js
-│   │
-│   ├── server.js
-│   └── package.json
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   │   ├── Feed.vue
-│   │   │   └── ActivityCard.vue
-│   │   │
-│   │   ├── App.vue
-│   │   └── main.js
-│   │
-│   ├── index.html
-│   └── package.json
-│
-└── README.md
-```
+
 
 ## Backend Setup
 
